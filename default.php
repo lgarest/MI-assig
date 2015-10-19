@@ -1,1 +1,1 @@
-header('Location: http://smartshirts.hol.es/inicio.html');
+<?php include_once("inicio.html"); ?>
